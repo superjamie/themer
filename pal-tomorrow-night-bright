@@ -1,0 +1,41 @@
+#!/bin/bash
+
+# https://github.com/chriskempson/tomorrow-theme/blob/master/Xdefaults/XresourceTomorrowNightBright
+
+PAL_NAME="Tomorrow Night Bright"
+
+PAL_BACKGROUND="#000000"
+PAL_FOREGROUND="#EAEAEA"
+
+# black dark/light
+PAL_COLOR0="#000000"
+PAL_COLOR8="#666666"
+
+# red dark/light
+PAL_COLOR1="#D54E53"
+PAL_COLOR9="#FF3334"
+
+# green dark/light
+PAL_COLOR2="#B9CA4A"
+PAL_COLOR10="#9EC400"
+
+# yellow dark/light
+PAL_COLOR3="#E78C45"
+PAL_COLOR11="#E7C547"
+
+# blue dark/light
+PAL_COLOR4="#7AA6DA"
+PAL_COLOR12="#7AA6DA"
+
+# magenta dark/light
+PAL_COLOR5="#C397D8"
+PAL_COLOR13="#B777E0"
+
+# cyan dark/light
+PAL_COLOR6="#70C0B1"
+PAL_COLOR14="#54CED6"
+
+# white dark/light
+PAL_COLOR7="#424242"
+PAL_COLOR15="#2A2A2A"
+
