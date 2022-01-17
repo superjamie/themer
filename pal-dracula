@@ -1,0 +1,41 @@
+#!/bin/bash
+
+# https://github.com/dracula/xresources/blob/master/Xresources
+
+PAL_NAME="Dracula"
+
+PAL_BACKGROUND="#282A36"
+PAL_FOREGROUND="#F8F8F2"
+
+# black dark/light
+PAL_COLOR0="#000000"
+PAL_COLOR8="#4D4D4D"
+
+# red dark/light
+PAL_COLOR1="#FF5555"
+PAL_COLOR9="#FF6E67"
+
+# green dark/light
+PAL_COLOR2="#50FA7B"
+PAL_COLOR10="#5AF78E"
+
+# yellow dark/light
+PAL_COLOR3="#F1FA8C"
+PAL_COLOR11="#F4F99D"
+
+# blue dark/light
+PAL_COLOR4="#BD93F9"
+PAL_COLOR12="#CAA9FA"
+
+# magenta dark/light
+PAL_COLOR5="#FF79C6"
+PAL_COLOR13="#FF92D0"
+
+# cyan dark/light
+PAL_COLOR6="#8BE9FD"
+PAL_COLOR14="#9AEDFE"
+
+# white dark/light
+PAL_COLOR7="#BFBFBF"
+PAL_COLOR15="#E6E6E6"
+
