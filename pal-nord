@@ -1,0 +1,58 @@
+#!/bin/bash
+
+# https://github.com/arcticicestudio/nord-xresources/blob/develop/src/nord
+
+NORD00="#2E3440"
+NORD01="#3B4252"
+NORD02="#434C5E"
+NORD03="#4C566A"
+NORD04="#D8DEE9"
+NORD05="#E5E9F0"
+NORD06="#ECEFF4"
+NORD07="#8FBCBB"
+NORD08="#88C0D0"
+NORD09="#81A1C1"
+NORD10="#5E81AC"
+NORD11="#BF616A"
+NORD12="#D08770"
+NORD13="#EBCB8B"
+NORD14="#A3BE8C"
+NORD15="#B48EAD"
+
+PAL_NAME="Nord"
+
+PAL_BACKGROUND="$NORD00"
+PAL_FOREGROUND="$NORD04"
+
+# black dark/light
+PAL_COLOR0="$NORD01"
+PAL_COLOR8="$NORD03"
+
+# red dark/light
+PAL_COLOR1="$NORD11"
+PAL_COLOR9="$NORD11"
+
+# green dark/light
+PAL_COLOR2="$NORD14"
+PAL_COLOR10="$NORD14"
+
+# yellow dark/light
+PAL_COLOR3="$NORD13"
+PAL_COLOR11="$NORD13"
+
+# blue dark/light
+PAL_COLOR4="$NORD09"
+PAL_COLOR12="$NORD09"
+
+# magenta dark/light
+PAL_COLOR5="$NORD15"
+PAL_COLOR13="$NORD15"
+
+# cyan dark/light
+PAL_COLOR6="$NORD08"
+PAL_COLOR14="$NORD07"
+
+# white dark/light
+PAL_COLOR7="$NORD05"
+PAL_COLOR15="$NORD06"
+
