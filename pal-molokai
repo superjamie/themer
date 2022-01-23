@@ -1,0 +1,26 @@
+#!/bin/bash
+
+# https://github.com/xuxiaodong/dotman/blob/master/.Xdefaults.d/colors/molokai
+
+PAL_NAME="Molokai"
+
+PAL_BACKGROUND="#101010
+PAL_FOREGROUND="#d0d0d0
+
+PAL_COLOR0="#101010"  # black
+PAL_COLOR1="#960050"  # red
+PAL_COLOR2="#66aa11"  # green
+PAL_COLOR3="#c47f2c"  # yellow
+PAL_COLOR4="#30309b"  # blue
+PAL_COLOR5="#7e40a5"  # magenta
+PAL_COLOR6="#89b6e2"  # cyan
+PAL_COLOR7="#9999aa"  # white
+PAL_COLOR8="#303030"  # bright black
+PAL_COLOR9="#ff0090"  # bright red
+PAL_COLOR10="#80ff00" # bright green
+PAL_COLOR11="#ffba68" # bright yellow
+PAL_COLOR12="#5f5fee" # bright blue
+PAL_COLOR13="#bb88dd" # bright magenta
+PAL_COLOR14="#4eb4fa" # bright cyan
+PAL_COLOR15="#d0d0d0" # bright white
+
