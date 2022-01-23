@@ -1,0 +1,49 @@
+#!/bin/bash
+
+# https="//github.com/thayerwilliams/vimbrant/blob/master/.Xdefaults.c.vimbrant
+
+PAL_NAME="vimbrant"
+
+# terminal colours
+PAL_FOREGROUND="#a0a0a0"
+PAL_BACKGROUND="#1b1d1e"
+
+# black
+PAL_COLOR0="#1b1d1e"
+PAL_COLOR8="#505354"
+
+# red
+PAL_COLOR1="#f92672"
+PAL_COLOR9="#ff5995"
+
+# green
+PAL_COLOR2="#82b414"
+PAL_COLOR10="#b6e354"
+
+# yellow
+PAL_COLOR3="#fd971f"
+PAL_COLOR11="#feed6c"
+
+# blue
+PAL_COLOR4="#56c2d6"
+PAL_COLOR12="#8cedff"
+
+# magenta
+PAL_COLOR5="#8c54fe"
+PAL_COLOR13="#9e6ffe"
+
+# cyan
+#PAL_COLOR6="#465457"
+PAL_COLOR6="#56676b"
+PAL_COLOR14="#899ca1"
+
+# white
+#PAL_COLOR7="#ccccc6"
+#PAL_COLOR15="#f8f8f2"
+#PAL_COLOR7="#bfbfba"
+#PAL_COLOR15="#ebebe5"
+PAL_COLOR7="#aaaaaa"
+PAL_COLOR15="#ffffff"
+
+# i guess these were other colours he tried?
+
