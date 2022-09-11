@@ -1,0 +1,42 @@
+#!/bin/bash
+
+# https://www.reddit.com/r/nethack/comments/kamrsp/no_more_pain_while_reading_symbols_here_comes_a/
+# rotated use of 7, 8, 14
+
+PAL_NAME="Terrarian"
+
+PAL_BACKGROUND="#1e1e1e"
+PAL_FOREGROUND="#bebea0"
+
+# black dark/light
+PAL_COLOR0="#1e1e1e"
+PAL_COLOR8="#828296"
+
+# red dark/light
+PAL_COLOR1="#be0000"
+PAL_COLOR9="#e15a00"
+
+# green dark/light
+PAL_COLOR2="#00aa00"
+PAL_COLOR10="#5ae100"
+
+# yellow dark/light
+PAL_COLOR3="#bea000"
+PAL_COLOR11="#e1e100"
+
+# blue dark/light
+PAL_COLOR4="#004bb4"
+PAL_COLOR12="#0078e1"
+
+# magenta dark/light
+PAL_COLOR5="#a000be"
+PAL_COLOR13="#e100e1"
+
+# cyan dark/light
+PAL_COLOR6="#00aaa0"
+PAL_COLOR14="#00e1e1"
+
+# white dark/light
+PAL_COLOR7="#bebea0"
+PAL_COLOR15="#ebebeb"
+
