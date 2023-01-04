@@ -1,0 +1,43 @@
+#!/bin/bash
+
+# https://github.com/janoamaral/Xresources-themes/blob/master/base16-monokai.Xresources
+
+PAL_NAME="Monokai"
+
+M_BASE00="#272822"
+M_BASE01="#383830"
+M_BASE02="#49483e"
+M_BASE03="#75715e"
+M_BASE04="#a59f85"
+M_BASE05="#f8f8f2"
+M_BASE06="#f5f4f1"
+M_BASE07="#f9f8f5"
+M_BASE08="#f92672"
+M_BASE09="#fd971f"
+M_BASE0A="#f4bf75"
+M_BASE0B="#a6e22e"
+M_BASE0C="#a1efe4"
+M_BASE0D="#66d9ef"
+M_BASE0E="#ae81ff"
+M_BASE0F="#cc6633"
+
+PAL_BACKGROUND="$M_BASE00"
+PAL_FOREGROUND="$M_BASE05"
+
+PAL_COLOR0="$M_BASE00"  # black
+PAL_COLOR1="$M_BASE08"  # red
+PAL_COLOR2="$M_BASE0B"  # green
+PAL_COLOR3="$M_BASE0A"  # yellow
+PAL_COLOR4="$M_BASE0D"  # blue
+PAL_COLOR5="$M_BASE0E"  # magenta
+PAL_COLOR6="$M_BASE0C"  # cyan
+PAL_COLOR7="$M_BASE05"  # white
+PAL_COLOR8="$M_BASE03"  # bright black
+PAL_COLOR9="$M_BASE09"  # bright red
+PAL_COLOR10="$M_BASEl1" # bright green
+PAL_COLOR11="$M_BASE02" # bright yellow
+PAL_COLOR12="$M_BASE04" # bright blue
+PAL_COLOR13="$M_BASE06" # bright magenta
+PAL_COLOR14="$M_BASE0F" # bright cyan
+PAL_COLOR15="$M_BASE07" # bright white
+
