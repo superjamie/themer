@@ -1,0 +1,41 @@
+#!/bin/bash
+
+# https://github.com/chriskempson/tomorrow-theme/blob/master/Xdefaults/Tomorrow%20Night
+
+PAL_NAME="Tomorrow Night"
+
+PAL_BACKGROUND="#1d1f21"
+PAL_FOREGROUND="#c5c8c6"
+
+# black dark/light
+PAL_COLOR0="#000000"
+PAL_COLOR8="#666666"
+
+# red dark/light
+PAL_COLOR1="#912226"
+PAL_COLOR9="#cc6666"
+
+# green dark/light
+PAL_COLOR2="#778900"
+PAL_COLOR10="#b5bd68"
+
+# yellow dark/light
+PAL_COLOR3="#ae7b00"
+PAL_COLOR11="#f0c674"
+
+# blue dark/light
+PAL_COLOR4="#1d2594"
+PAL_COLOR12="#81a2be"
+
+# magenta dark/light
+PAL_COLOR5="#682a9b"
+PAL_COLOR13="#b294bb"
+
+# cyan dark/light
+PAL_COLOR6="#2b6651"
+PAL_COLOR14="#8abeb7"
+
+# white dark/light
+PAL_COLOR7="#929593"
+PAL_COLOR15="#ecebec"
+
