@@ -1,6 +1,7 @@
 #!/bin/bash
 
 # https://github.com/dracula/xresources/blob/master/Xresources
+# https://github.com/dracula/xfce4-terminal/blob/master/Dracula.theme
 
 PAL_NAME="Dracula"
 
@@ -8,8 +9,8 @@ PAL_BACKGROUND="#282A36"
 PAL_FOREGROUND="#F8F8F2"
 
 # black dark/light
-PAL_COLOR0="#000000"
-PAL_COLOR8="#4D4D4D"
+PAL_COLOR0="#21222C"
+PAL_COLOR8="#6272A4"
 
 # red dark/light
 PAL_COLOR1="#FF5555"
@@ -17,25 +18,27 @@ PAL_COLOR9="#FF6E67"
 
 # green dark/light
 PAL_COLOR2="#50FA7B"
-PAL_COLOR10="#5AF78E"
+PAL_COLOR10="#69FF94"
 
 # yellow dark/light
 PAL_COLOR3="#F1FA8C"
-PAL_COLOR11="#F4F99D"
+PAL_COLOR11="#FFFFA5"
 
 # blue dark/light
 PAL_COLOR4="#BD93F9"
-PAL_COLOR12="#CAA9FA"
+PAL_COLOR12="#D6ACFF"
 
 # magenta dark/light
 PAL_COLOR5="#FF79C6"
-PAL_COLOR13="#FF92D0"
+PAL_COLOR13="#FF92DF"
 
 # cyan dark/light
 PAL_COLOR6="#8BE9FD"
-PAL_COLOR14="#9AEDFE"
+PAL_COLOR14="#A4FFFF"
 
 # white dark/light
-PAL_COLOR7="#BFBFBF"
-PAL_COLOR15="#E6E6E6"
+PAL_COLOR7="#F8F8F2"
+PAL_COLOR15="#FFFFFF"
 
+#21222C;#FF5555;#50FA7B;#F1FA8C;#BD93F9;#FF79C6;#8BE9FD;#F8F8F2;
+#6272A4;#FF6E6E;#69FF94;#FFFFA5;#D6ACFF;#FF92DF;#A4FFFF;#FFFFFF
